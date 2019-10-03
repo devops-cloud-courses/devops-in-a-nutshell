@@ -1,5 +1,5 @@
-# REPLACE_TITLE
-#### REPLACE_SUBTITLE
+# DevOps
+#### In a nutshell
 
 <i><a target="_new" href="http://twitter.com/arthurmauvezin">@arthurmauvezin</a> | <a target="_new" href="http://github.com/arthurmauvezin">http://github.com/arthurmauvezin</a></i>
 
@@ -22,7 +22,7 @@
 
 ----
 
-### Who knows REPLACE_TITLE?
+### Who knows DevOps?
 
 ----
 
