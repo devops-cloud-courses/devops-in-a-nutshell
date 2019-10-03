@@ -28,8 +28,9 @@
 
 ### Why this course?
 
-* Reason 1
-* Reason 2
+* Mandatory skills
+* Useful skills in all IT domains
+* Highly saleable on IT market
 
 ----
 
@@ -42,6 +43,6 @@
 * This presentation use [Reveal.js framework](https://revealjs.com/#/)
 * Press **Esc** to zoom out to all slides or zoom in
 * Press **?** on your keyboard to get navigation help
-* <a href="#/" style="font-size: 22px; background: #4141d8; text-decoration: none; padding: 20px; padding-top: 12px; padding-bottom: 12px; color: white; border-radius: 7px;">Go back to presentation</a>
+* <a href="#/" style="font-size: 22px; background: #4141d8; text-decoration: none; padding: 20px; padding-top: 12px; padding-bottom: 12px; color: white; border-radius: 7px;">Go back to first slide</a>
 
 
