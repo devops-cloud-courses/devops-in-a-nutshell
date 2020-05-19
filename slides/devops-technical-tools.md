@@ -19,6 +19,12 @@
 
 ----
 
+#### Centralized VS Distributed
+
+<img src="images/vcs-centralized-vs-distributed.ppm" style="background:none; border:none; box-shadow:none;"/>
+
+----
+
 ### Learn how to use Git
 
 * [Official site](https://git-scm.com/book/en/v2)
@@ -29,6 +35,7 @@
 #### Know Git servers
 
 * [Github](https://github.com/)
+* [Azure Repos](https://azure.microsoft.com/fr-fr/services/devops/repos/)
 * [Gitlab](https://about.gitlab.com/)
 * [Bitbucket](https://bitbucket.org)
 
