@@ -9,12 +9,21 @@
 
 ---
 
-### Who I am?
+### Who we are?
 
 > Arthur Mauvezin<br />
-> DevOps Engineer
+> DevOps Practice Leader @ Teolia
 
 <img src="https://avatars2.githubusercontent.com/u/10439516?s=400&u=27155f0ca1ec897597b113b9677934db02901d9a&v=4" width="200px" />
+
+---
+
+### Who we are?
+
+> Laurent Grangeau<br />
+> Cloud Solution Architect @ Sogeti
+
+<img src="https://pbs.twimg.com/profile_images/1007639151812988929/ln3iUxxF_400x400.jpg" width="200px" />
 
 ---
 
