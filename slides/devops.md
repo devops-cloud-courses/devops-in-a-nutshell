@@ -48,7 +48,14 @@ Ops want stability to keep a high satisfaction level from client.
 * And **how to produce a better deliverable for output team** (ex: Ops team)
 * Always think **automation** and **continous improvement**
 * **Develop to the target** (Dev == Staging == Prod)
+
+----
+
+### Wins
+
+* Raise **product reliability**
 * **Shorten Time To Market** (TTM)
+* **Keep your teams**
 
 ----
 

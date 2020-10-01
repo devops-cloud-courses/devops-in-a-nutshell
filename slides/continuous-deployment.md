@@ -18,7 +18,7 @@
 
 ### The Dream: Commit to prod
 
-* With the continuous delivery, it is possible to deploy each commit on specific branch directly to production environment
+* With the continuous deployment, it is possible to deploy each commit on specific branch directly to production environment
 * Deploy often allow to push only a small number of change each time which creates less regressions in the case of an error.
 * It is easier to rollback 1 change than 15 --> Less inconveniences for clients
 
@@ -28,6 +28,6 @@
 
 Domain | Examples
 --- | ---
-Deployment | XLDeploy, puppet, docker, rancher, swarm, kubernetes
+Deployment | puppet, Ansible, Docker, Rancher, Kubernetes
 Scripting | python, powershell, bash
 Load Balancer | Nginx, HaProxy, Traefik

@@ -31,6 +31,7 @@
 * [Github](https://github.com/)
 * [Gitlab](https://about.gitlab.com/)
 * [Bitbucket](https://bitbucket.org)
+* [Azure Repos](https://azure.microsoft.com/en-us/services/devops/repos/)
 
 ----
 
@@ -73,7 +74,7 @@
 
 #### Coding Dojo
 
-* **Meetup** with people interested in resolving programation challenge
+* **Meetup** with people interested in resolving programming challenge
 * The goal is to find the **optimal solution** chosen by all participants
 * Allow to **avoid** falling in **endless technical debates** in the future
 
@@ -92,4 +93,5 @@
 * [TDD](https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80) - Test Driven Development
 * [BDD](https://cucumber.io/docs/bdd/overview/) - Behavior Driven Development
 * [Feature Flipping](https://martinfowler.com/articles/feature-toggles.html)
-* Test A/B
+* A/B testing
+* And many more ...

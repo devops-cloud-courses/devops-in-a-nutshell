@@ -27,7 +27,7 @@
 #### Integration tests
 
 * Rely on Unit tests
-* Validate that **multiple bricks behave as intended**
+* Validate that **intgrated systems work as intended**
 * You can test from any interface (not only client interface)
 
 ----
@@ -68,8 +68,8 @@
 
 #### Tests Cons
 
-* Time consuming to maintain. Tests extend development phase.
 * Time consuming to setup. Lots of test techs exist - we need to perform a study analysis before setting up automated tests.
+* Time consuming to maintain. Tests extend development phase.
 
 ----
 

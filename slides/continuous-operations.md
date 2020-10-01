@@ -3,11 +3,11 @@
 
 ----
 
-### Metric collection
+### Metrics collection
 
 Application monitoring:
 * Resources (RAM, CPU, Network,...)
-* State (UP/Down)
+* State (Up/Down)
 * Response time
 
 ----
@@ -25,13 +25,13 @@ Aggregated log view allowing to get interesting metrics:
 ### Automatic scalability
 
 * Allow apps to scale automatically in case of too much load
-* This load is measured with the help of metric and log centralisation
+* This load is measured with the help of metrics and logs centralisation
 
 ----
 
 ### Infrastructure as Code
 
-> Automatically deploy machines and all necessary dependencies to get a running app
+> Automatically deploy environments and all necessary dependencies to get a running app
 
 ----
 
@@ -40,6 +40,6 @@ Aggregated log view allowing to get interesting metrics:
 Domain | Examples
 --- | ---
 Monitoring | Centreon, Prometheus, InfluxDB, Grafana
-Logs centralisation | ElasticSearch, Logstash, Kibana, Filebeat
+Logs centralisation | Elasticsearch, Logstash, Kibana, Filebeat
 Infrastructure as code | Terraform, Puppet, Ansible, Chef, Salt
 | Advanced system and network skills

@@ -40,6 +40,6 @@
 
 ### Scrum limitations 
 
-* **Only dev team** is agile
-* How can we assure **agility accross deployment** ?
+* Simplify communication **only between biz and dev teams**
+* How can we assure **agility across deployment** ?
 * Only focused on software increment, **not production issues**
