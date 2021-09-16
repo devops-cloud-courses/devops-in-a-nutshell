@@ -40,5 +40,5 @@
 
 Domain | Examples
 --- | ---
-Packaging appli | Maven, NPM, MsBuild, Python, Docker
-Artifact storer | Artifactory, Nexus
+Packaging appli | Maven, NPM, MsBuild, Python, Docker, Podman, Buildah
+Artifact storer | Artifactory, Nexus, DockerHub
