@@ -23,7 +23,7 @@
 Domain | Examples
 --- | ---
 VCS | Git, SVN, Mercurial
-CI Server  | Jenkins, TeamCity, Travis, Gitlab, Azure DevOps
+CI Server  | Jenkins, Gitlab-CI, Azure DevOps, GitHub Actions
 Scripting  | Bash, Python, Powershell, Groovy
 Building  | Maven, MsBuild, NPM
 Dependency management  | Maven, Nuget, Pip, Bower, NPM
