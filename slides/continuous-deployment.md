@@ -30,4 +30,4 @@ Domain | Examples
 --- | ---
 Deployment | puppet, Ansible, Docker, Rancher, Kubernetes
 Scripting | python, powershell, bash
-Load Balancer | Nginx, HaProxy, Traefik
+Others | Nginx, HaProxy, Traefik, Kafka, redis, etc.
